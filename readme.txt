@@ -17,3 +17,17 @@ Compiling lib\main.dart for the Web...                             66,2s
 Process finished with exit code 0
 
 
+```bash
+# Установка зависимостей
+flutter pub get
+
+# Анализ кода
+flutter analyze
+
+# Сборка debug APK
+flutter build apk --debug
+
+# Сборка release APK
+flutter build apk --release
+```
+
