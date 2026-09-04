@@ -31,3 +31,6 @@ flutter build apk --debug
 flutter build apk --release
 ```
 
+PS D:\Projects\2026\potolki_mobile\android\app> java -jar pepk.jar --keystore upload-keystore.jks --alias upload --output pepk_out.zip --encryptionkey=0000b40fffabee29ae3faa594d404c8e8a223f79196a24a151b0cea0583e665e68c2a64067271da8c940a600be9f02037f9b7b484e7bad9092abc0bd9f48878393ef0013 --include-cert
+
+
