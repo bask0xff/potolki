@@ -12,3 +12,13 @@ http://localhost:8000
 - Александр Басков
 
 сентябрь 2026
+
+---
+## Donate
+Bitcoin BTC : 1AqcSbBw1UDULszboqi8mq8jE7Kykwwncm
+
+BTC TrustWallet: bc1qvlzld7nh7jnjmtvkgj4fn9wwvm98f9c07sc006
+
+USDT TRC20 : THR5VLuZWn7z8iiXwJ1WK9Sg4E6Ae8qUmk
+
+USDT ERC20 : 0x4b5fAF36e95918AD3e65bF9bd42E1FDEca93db2e
