@@ -1,6 +1,6 @@
 # Система расчёта стоимости при выполнении работ по натяжным потолкам
 
-Android - ABB
+Android Flutter, Dart - ABB
 
 Web:
 http://localhost:8000
